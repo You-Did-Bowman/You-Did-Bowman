@@ -18,6 +18,33 @@ I already feel quite comfortable with HTML, CSS and SCSS - I have also already w
 <br>
 Mail: ju.bohmann@gmx.de
 
+<br>
+<h3>Skills:</h3>
+
+![HTML]
+<br>
+![CSS]
+<br>
+![SASS.com]
+<br>
+![Bootstrap.com]
+<br>
+<br>
+![Javascript.com]
+<br>
+![React.js]
+<br>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Javascript.com]: https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000
+[SASS.com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white
+[HTML]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white
+[CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
 
 
