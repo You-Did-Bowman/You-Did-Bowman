@@ -8,7 +8,7 @@ I already feel quite comfortable with HTML, CSS and SCSS - I have also already w
 <br><br>
 
 🌱 I’m currently learning Javascript. Building on that, I'm going to learn React.js. To get a current overview of my knowledge, you should take a look at my latest project:
-- <a href="https://github.com/You-Did-Bowman/JS-Exercises-with-Hadi">16 exercises for Javascript at different levels</a>
+- <a href="https://github.com/You-Did-Bowman/JavaScript-Practice">Tasks that I complete in addition to my daily tasks in further education at DCI</a>
 <br><br>
 
 🌈 I’m aiming to build a strong foundation in web development by June 2025, with the goal of being fully prepared for the demands of the job market. Until then, I’m focused on deepening my skills in HTML, CSS, and JavaScript to confidently take on real-world projects.
