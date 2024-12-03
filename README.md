@@ -4,7 +4,8 @@ Hello, my name is Judith Bohmann.
 <br><br>
 🔭 I'm currently working on further developing my theoretical and practical knowledge of web development. 
 I already feel quite comfortable with HTML, CSS and SCSS - I have also already worked with bootstraps. Projects - based solely on these technologies - can be found here:
-- <a href="https://github.com/You-Did-Bowman/portfolio">Draft of my portfolio</a>
+- Final project for the module "<b>UI Basics</b>": <a href="https://github.com/You-Did-Bowman/portfolio">Draft of my portfolio</a>
+- Final project for the moduke "<b>Programming Basics</b>": <a href="https://github.com/You-Did-Bowman/MASTERMIND_digital">Terminal based game - Mastermind</a>
 <br><br>
 
 🌱 I’m currently learning Javascript. Building on that, I'm going to learn React.js. To get a current overview of my knowledge, you should take a look at my latest project:
