@@ -48,6 +48,8 @@ Mail: ju.bohmann@gmx.de
 [SASS.com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white
 [HTML]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white
 [CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+JSX
+VITE
 
 
 
