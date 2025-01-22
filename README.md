@@ -40,6 +40,8 @@ Mail: ju.bohmann@gmx.de
 VITE
 <br>
 ReactBootstrap
+<br>
+Python
 
 <!-- Dafür sorgen, dass zu jeder Sprache auch Projekte im Portfolio sind -->
 
