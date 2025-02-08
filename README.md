@@ -27,7 +27,7 @@ Mail: ju.bohmann@gmx.de
 
 <h3>Frameworks, Platforms, Libraries:</h3>
 
-![NodeJS] ![React.js] ![SASS] ![Bootstrap] ![React Router] ![Vite] ![NPM] ![WordPress] ![ReactApp]
+![NodeJS] ![React.js] ![SASS] ![Bootstrap] ![React Router] ![Vite] ![NPM] ![WordPress] ![NumPy] ![Pandas] ![ReactApp]
 
 <h3>Hosting</h3>
 
@@ -36,10 +36,6 @@ Mail: ju.bohmann@gmx.de
 <h3>IDEs</h3>
 
 ![Visual Studio Code] ![PyCharm]
-
-<h3>ML/DL</h3>
-
-![NumPy] ![Pandas]
 
 <h3>OS</h3>
 
