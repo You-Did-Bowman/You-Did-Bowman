@@ -21,28 +21,30 @@ During my training I have already learnt how to work with HTML, CSS, SCSS and JS
 Mail: ju.bohmann@gmx.de
 
 <br>
-<h3>Skills:</h3>
+<h3>Languages:</h3>
 
-![HTML]
-<br>
-![CSS]
-<br>
-![SASS.com]
-<br>
-![Bootstrap.com]
-<br>
-<br>
-![Javascript.com]
-<br>
-![React.js]
-<br>
-VITE
-<br>
-ReactBootstrap
-<br>
-Python
-<br>
-ReactApp
+![HTML] ![CSS] ![Javascript.com] ![Pyhton]
+
+<h3>Frameworks, Platforms, Libraries:</h3>
+
+![NodeJS] ![React.js] ![SASS] ![Bootstrap] ![React Router] ![Vite] ![NPM] ![WordPress] ![ReactApp]
+
+<h3>Hosting</h3>
+
+![GithubPages] ![Render]
+
+<h3>IDEs</h3>
+
+![Visual Studio Code] ![PyCharm]
+
+<h3>ML/DL</h3>
+
+![NumPy] ![Pandas]
+
+<h3>OS</h3>
+
+![Windows] ![Ubuntu]
+
 
 <!-- Dafür sorgen, dass zu jeder Sprache auch Projekte im Portfolio sind -->
 
@@ -50,12 +52,27 @@ ReactApp
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[NPM]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+[ReactApp]: https://img.shields.io/badge/react-app-blue
+[Vite]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
+[Pyhton]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [Javascript.com]: https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000
-[SASS.com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white
+[SASS]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [HTML]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white
 [CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[WordPress]: https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white
+[GithubPages]: https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white
+[Render]: https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white
+[Visual Studio Code]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[PyCharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[React Router]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 
 
 
