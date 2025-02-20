@@ -27,7 +27,7 @@ Mail: ju.bohmann@gmx.de
 
 <h3>Frameworks, Platforms, Libraries:</h3>
 
-![NodeJS] ![React.js] ![SASS] ![Bootstrap] ![React Router] ![Vite] ![NPM] ![WordPress] ![NumPy] ![Pandas] ![ReactApp]
+![NodeJS] ![React.js] ![SASS] ![Bootstrap] ![React Router] ![Vite] ![NPM] ![WordPress] ![NumPy] ![Pandas] ![Express.js] ![ReactApp] 
 
 <h3>Hosting</h3>
 
@@ -69,7 +69,7 @@ Mail: ju.bohmann@gmx.de
 [Windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [React Router]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-
+[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 
 
 
