@@ -6,6 +6,7 @@ Hello, my name is Judith Bohmann.
 During my training I have already learnt how to work with HTML, CSS, SCSS and JS. I can already use these very confidently and efficiently. You can find examples in the following projects:
 - Final project for the module "<b>UI Basics</b>": <a href="https://github.com/You-Did-Bowman/portfolio">Draft of my portfolio</a>
 - Final project for the module "<b>Programming Basics</b>": <a href="https://github.com/You-Did-Bowman/MASTERMIND_digital">Terminal based game - Mastermind</a>
+- Final project for the module "<b>Single Page Application</b>": <a href="https://github.com/You-Did-Bowman/Project_To-Do-List">Group project: To-Do-List </a>
 <br><br>
 
 🌱 I’m currently learning <b>React.js</b>. To get a current overview of my knowledge, you should take a look at my latest project:
