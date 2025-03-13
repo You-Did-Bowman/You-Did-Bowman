@@ -42,6 +42,8 @@ Mail: ju.bohmann@gmx.de
 
 ![Windows] ![Ubuntu]
 
+<!-- MongoDB, MongoDB Compass, Mongoose -->
+
 
 <!-- Dafür sorgen, dass zu jeder Sprache auch Projekte im Portfolio sind -->
 
