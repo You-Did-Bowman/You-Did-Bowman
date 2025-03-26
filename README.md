@@ -9,7 +9,10 @@ During my training I have already learnt how to work with HTML, CSS, SCSS and JS
 - Final project for the module "<b>Single Page Application</b>": <a href="https://github.com/You-Did-Bowman/Project_To-Do-List">Group project: To-Do-List </a>
 
 
-🌱 
+🌱 I'm currently learning **TypeScript** – for clean, maintainable code and because many companies rely on it. I’m using FreeCodeCamp to study and sharpening my skills with challenges on Codewars.
+Checkout my Repos:
+- TypeScript lessons: <a href="https://github.com/You-Did-Bowman/Lesson_Typescript">TS lessons</a>
+- TypeScript tasks: <a href="https://github.com/You-Did-Bowman/Exercises_TypeScript">TS tasks</a>
 
 
 🌳 The last few month I learnt in my further developing **REACT.js**. To get a overview of my knowledge, you should take a look at my latest project:
