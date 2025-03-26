@@ -1,27 +1,31 @@
 ## Building Web Visions, One Line of Code at a Time! 🖥️
 
 Hello, my name is Judith Bohmann.
-<br><br>
+
 🔭 I'm currently working on further developing my theoretical and practical knowledge of web development. 
 During my training I have already learnt how to work with HTML, CSS, SCSS and JS. I can already use these very confidently and efficiently. You can find examples in the following projects:
 - Final project for the module "<b>UI Basics</b>": <a href="https://github.com/You-Did-Bowman/portfolio">Draft of my portfolio</a>
 - Final project for the module "<b>Programming Basics</b>": <a href="https://github.com/You-Did-Bowman/MASTERMIND_digital">Terminal based game - Mastermind</a>
 - Final project for the module "<b>Single Page Application</b>": <a href="https://github.com/You-Did-Bowman/Project_To-Do-List">Group project: To-Do-List </a>
-<br><br>
 
-🌱 I’m currently learning <b>React.js</b>. To get a current overview of my knowledge, you should take a look at my latest project:
+
+🌱 
+
+
+🌳 The last few month I learnt in my further developing **REACT.js**. To get a overview of my knowledge, you should take a look at my latest project:
 - Random JS-Exercises: <a href="https://github.com/You-Did-Bowman/JavaScript-Practice">Tasks that I complete in addition to my daily tasks in further education at DCI</a>
 - RGB-Guessing-Game: <a href="https://github.com/You-Did-Bowman/RGB_Guessing_Game"> Repo: RGB-Guessing-Game</a> / <a href="https://you-did-bowman.github.io/RGB_Guessing_Game/"> Github-Page: RGB-Guessing-Game</a>
 - React Routing: <a href="https://github.com/You-Did-Bowman/2025-02-04_Ex-Routing">An Exercise according Routing in React</a>
-<br><br>
+
 
 🌈 I’m aiming to build a strong foundation in web development by June 2025, with the goal of being fully prepared for the demands of the job market. Until then, I’m focused on deepening my skills in HTML, CSS, and JavaScript to confidently take on real-world projects.
-<br><br>
+
+
 📫 How to reach me:
 <br>
 Mail: ju.bohmann@gmx.de
 
-<br>
+
 <h3>Languages:</h3>
 
 ![HTML] ![CSS] ![Javascript.com] ![Pyhton]
@@ -41,6 +45,10 @@ Mail: ju.bohmann@gmx.de
 <h3>OS</h3>
 
 ![Windows] ![Ubuntu]
+
+<h3>Backend</h3>
+
+![MongoDB]
 
 <!-- MongoDB, MongoDB Compass, Mongoose -->
 
@@ -73,6 +81,7 @@ Mail: ju.bohmann@gmx.de
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [React Router]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 
 
 
