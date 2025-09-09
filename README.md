@@ -43,7 +43,7 @@ Mail: ju.bohmann@gmx.de
 
 <h3>IDEs</h3>
 
-![Visual Studio Code] ![PyCharm]
+![Visual Studio Code] ![PyCharm] ![IntelliJ]
 
 <h3>OS</h3>
 
@@ -91,6 +91,7 @@ Mail: ju.bohmann@gmx.de
 [OpenAPI]: https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white
 [Docker]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff
 [Azure]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white
+[IntelliJ]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white
 
 <!--
 **You-Did-Bowman/You-Did-Bowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
