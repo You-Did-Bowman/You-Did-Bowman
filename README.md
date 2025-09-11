@@ -2,12 +2,11 @@
 
 Hello, my name is Judith Bohmann.
 
-🔭 I'm currently working on further developing my theoretical and practical knowledge of web development. 
-During my training I have already learnt how to work with HTML, CSS, SCSS and JS. I can already use these very confidently and efficiently. You can find examples in the following projects:
+👩🏻‍🎓 I completed my further training as a full-stack web developer in August 2025.
+During my training I have learnt how to work with HTML, CSS, SCSS and JS. You can find examples in the following projects:
 - Final project for the module "<b>UI Basics</b>": <a href="https://github.com/You-Did-Bowman/portfolio">Draft of my portfolio</a>
 - Final project for the module "<b>Programming Basics</b>": <a href="https://github.com/You-Did-Bowman/MASTERMIND_digital">Terminal based game - Mastermind</a>
 - Final project for the module "<b>Single Page Application</b>": <a href="https://github.com/You-Did-Bowman/Project_To-Do-List">Group project: To-Do-List </a>
-
 
 🌱 I'm currently learning **TypeScript** – for clean, maintainable code and because many companies rely on it. I’m using FreeCodeCamp to study and sharpening my skills with challenges on Codewars.
 Checkout my Repos:
@@ -15,10 +14,23 @@ Checkout my Repos:
 - TypeScript tasks: <a href="https://github.com/You-Did-Bowman/Exercises_TypeScript">TS tasks</a>
 
 
-🌳 The last few month I learnt in my further developing **REACT.js**. To get a overview of my knowledge, you should take a look at my latest project:
+🌳 To get a overview of my knowledge, you should take a look at my latest project:
 - Random JS-Exercises: <a href="https://github.com/You-Did-Bowman/JavaScript-Practice">Tasks that I complete in addition to my daily tasks in further education at DCI</a>
 - RGB-Guessing-Game: <a href="https://github.com/You-Did-Bowman/RGB_Guessing_Game"> Repo: RGB-Guessing-Game</a> / <a href="https://you-did-bowman.github.io/RGB_Guessing_Game/"> Github-Page: RGB-Guessing-Game</a>
 - React Routing: <a href="https://github.com/You-Did-Bowman/2025-02-04_Ex-Routing">An Exercise according Routing in React</a>
+<br><br>
+
+🚀 **Coderealm** <br>
+My final full-stack project, developed together with friends aka classmates.
+It’s an interactive learning platform that combines elements of role-playing, coding challenges, a forum, and AI support. The goal is to make learning web development engaging and playful.
+
+The project is split into two repositories: <br>
+<a href="https://github.com/You-Did-Bowman/Coderealm-FE">Coderealm-FE </a>: React frontend with REACT, Vite and 3D/interactive features <br>
+<a href="https://github.com/You-Did-Bowman/Coderealm-BE">Coderealm-BE </a>:Node.js/Express backend with MySQL (AWS Aurora) and authentication
+
+Check out the live version of Coderealm <a href="https://coderealm-e7af.onrender.com/"> here </a>.
+<br>
+**Disclaimer:** It may take some time for the backend to load if Coderealm has not been visited for a long time. Therefore, it will take a while to load when you log in for the first time. 
 
 
 🌈 I’m aiming to build a strong foundation in web development by June 2025, with the goal of being fully prepared for the demands of the job market. Until then, I’m focused on deepening my skills in HTML, CSS, and JavaScript to confidently take on real-world projects.
