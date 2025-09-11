@@ -32,10 +32,6 @@ Check out the live version of Coderealm <a href="https://coderealm-e7af.onrender
 <br>
 **Disclaimer:** It may take some time for the backend to load if Coderealm has not been visited for a long time. Therefore, it will take a while to load when you log in for the first time. 
 
-
-🌈 I’m aiming to build a strong foundation in web development by June 2025, with the goal of being fully prepared for the demands of the job market. Until then, I’m focused on deepening my skills in HTML, CSS, and JavaScript to confidently take on real-world projects.
-
-
 📫 How to reach me:
 <br>
 Mail: ju.bohmann@gmx.de
