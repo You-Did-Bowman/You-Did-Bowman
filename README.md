@@ -28,7 +28,7 @@ The project is split into two repositories: <br>
 <a href="https://github.com/You-Did-Bowman/Coderealm-FE">Coderealm-FE </a>: React frontend with REACT, Vite and 3D/interactive features <br>
 <a href="https://github.com/You-Did-Bowman/Coderealm-BE">Coderealm-BE </a>:Node.js/Express backend with MySQL (AWS Aurora) and authentication
 
-Check out the live version of Coderealm <a href="https://coderealm-e7af.onrender.com/"> here </a>.
+Check out the live version of Coderealm <a href="https://coderealm-e7af.onrender.com/" target="_blank"> here </a>.
 <br>
 **Disclaimer:** It may take some time for the backend to load if Coderealm has not been visited for a long time. Therefore, it will take a while to load when you log in for the first time. 
 
